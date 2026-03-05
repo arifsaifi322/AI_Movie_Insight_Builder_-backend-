@@ -42,7 +42,7 @@ To wake the backend service first open:
 
 https://ai-movie-insight-builder-backend-t2bh.onrender.com/movie/tt4154756
 
-After the backend wakes up, the frontend can connect normally.
+After the backend wakes up (will take almost 1-2 minutes), the frontend can connect normally. Both front end and backend will start in almost 2-3 minutes after urls been hit
 
 ---
 
